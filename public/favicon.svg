@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Água Viva">
+  <rect width="64" height="64" rx="15" fill="#0A2A4A"/>
+  <path d="M10 27c5.5-6 11-6 16.500 0s11 6 16.500 0 8-4.500 11-3" fill="none" stroke="#7DD3E2" stroke-width="5" stroke-linecap="round"/>
+  <path d="M10 42c5.500-6 11-6 16.500 0s11 6 16.500 0 8-4.500 11-3" fill="none" stroke="#5FD3B3" stroke-width="5" stroke-linecap="round"/>
+</svg>
